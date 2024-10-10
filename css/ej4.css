@@ -1,0 +1,23 @@
+.sin {
+    list-style-type: none;
+}
+
+.circulos {
+    list-style-type: circle; 
+}
+
+.cuadrados {
+    list-style-type: square;
+}
+
+.numeros {
+    list-style-type: decimal;
+}
+
+.romanos {
+    list-style-type: upper-roman;
+}
+
+.letras {
+    list-style-type: upper-alpha;
+}
